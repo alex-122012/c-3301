@@ -8,3 +8,6 @@ bordes modificados levemente y mejoras en ciertos caracteres portando un diseño
 
 Licencia y Créditos: Este proyecto es una obra derivada de Clear Sans, creada originalmente por Daniel Ratighan en Monotype bajo la dirección de Intel.Licencia del proyecto: Distribuido bajo la Licencia Apache, Versión 2.0.Atribución: Clear Sans es una marca registrada de Intel Corporation.
 Esta fuente  fue echa y diseñada en glyphrs tudio:https://www.glyphrstudio.com/
+
+the project has been discontinued 
+No new changes will be made. 
